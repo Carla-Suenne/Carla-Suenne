@@ -1,7 +1,7 @@
 <h2> 👋 Hi, I’m @Carla-Suenne. Welcome to my space!</h2>
 <hr>
 <h4> 👀 I’m interested in becoming a developer fullstack. So this area is my space to share my projects. Maybe help someone with my codes. </h3>
-<h4>🌱 I’m currently Java and JavaScript.</h3>
+<h4>🌱 I’m currently learning Java and JavaScript.</h3>
 <br>
 <h6> Let's have fun </h6>
 
